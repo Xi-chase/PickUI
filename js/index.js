@@ -5,7 +5,7 @@
 	var now = "?";
 	var list = new Array();
 	var timeSpace = 250
-	var numberL = 1000, numberR = 1200;
+	var numberL = 0, numberR = 100;
 	var lastLength = 0;
 	var maxFontSize = 300;
 	var circleNum = 1200;
